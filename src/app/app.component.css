@@ -1,0 +1,26 @@
+.step {
+  padding: 12px;
+}
+
+.wizard {
+  display: flex;
+  flex-direction: column;
+  max-width: 720px;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+.nav {
+  display: flex;
+  background-color: lightgray;
+  justify-content: space-between;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 12px;
+  min-width: 100px;
+  font-family: sans-serif;
+}
